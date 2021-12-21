@@ -1,0 +1,5 @@
+npm install @material-ui/core @material-ui/icons
+
+Once you installed the dependencies, you can use it to display SVG icons which are provided by
+Material UI. Material UI is a very popular UI library for React which has a lot of prebuilt 
+components just as icons which makes life easier.
